@@ -8,7 +8,8 @@ public class Armstrong_number{
         int originalnumber=num;
         int numberofdigits=0;
         int sum=0;
-        //check for number od digits Eg:153
+        //check for number 
+        //  of digits Eg:153
         int tempnum=num;
         while(tempnum!=0){
             tempnum/=10;
