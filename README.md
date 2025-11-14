@@ -25,7 +25,7 @@
 
 13) Rotate Array in RIGHT for N times 
 
-14) sum of all the numbers from 1 to N 
+14) Sum of all the numbers from 1 to N 
 
 15) Check if number is divisible by 5 and 11
 
@@ -33,9 +33,10 @@
 
 17) Calculate factorial of a number
 
-18)Write a java program to calculate find the square and cube of a number
+18) Write a java program to calculate find the square and cube of a number
 
-19)Reverse a number 
+19) Reverse a number 
 
-20) Check if number is prime or not
+20) Check if number is prime or not.
+    <hr>
 Author-Lalitha N
